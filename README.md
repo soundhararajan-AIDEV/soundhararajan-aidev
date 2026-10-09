@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # SOUNDHARARAJAN L.
 
 ### Python Full Stack Engineer \| AI / GenAI Developer
@@ -7,7 +7,7 @@
 
 [Email](mailto:soundhararajan.aidev@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/soundhararajan-aidev)
-:::
+
 
 ------------------------------------------------------------------------
 
